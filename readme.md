@@ -1,13 +1,14 @@
-Transformez une maquette en site web
-avec HTML & CSS:
+**Transformez une maquette en site web
+avec HTML & CSS**
 
-Compétences évaluées:
+_Compétences évaluées:_
 
-[x] Implémenter une interface responsive
+- [x] Implémenter une interface responsive
 
-[x] Intégrer du contenu conformément à une maquette
+- [x] Intégrer du contenu conformément à une maquette
 
-Scénario
+_Scénario_
+
 Vous avez trouvé votre premier stage en tant que développeur web chez Booki, une petite
 entreprise proposant un outil de planiCcation de vacances ! Son site permet aux usagers de
 trouver des hébergements et des activités dans la ville de leur choix. Les hébergements
