@@ -1,8 +1,10 @@
 Transformez une maquette en site web
-avec HTML & CSS
+avec HTML & CSS:
 
 Compétences évaluées:
+
 [x] Implémenter une interface responsive
+
 [x] Intégrer du contenu conformément à une maquette
 
 Scénario
