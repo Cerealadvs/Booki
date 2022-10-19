@@ -4,7 +4,6 @@ avec HTML & CSS:
 Compétences évaluées:
 
 [x] Implémenter une interface responsive
-
 [x] Intégrer du contenu conformément à une maquette
 
 Scénario
